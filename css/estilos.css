@@ -52,7 +52,7 @@ header label{
     height: 100vh;
     background: rgba(255,114,086,0.9);
     transition: all 0.5s;
-    transform: translateX(-100%);
+    transform: translateX(100%);
 }
 
 header .contenedor{
